@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "image": "https://www.jackson-pollock.org/images/paintings/convergence.jpg",
+    "name": "Convergence",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://www.jackson-pollock.org/images/paintings/autumn-rhythm.jpg",
+    "name": "Autumn-Rhythm",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://www.jackson-pollock.org/images/paintings/sea-change.jpg",
+    "name": "Sea-Change",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://www.jackson-pollock.org/images/paintings/number-18.jpg",
+    "name": "Number-18",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://www.jackson-pollock.org/images/paintings/in-echo-number-25.jpg",
+    "name": "Number-25",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://www.jackson-pollock.org/images/paintings/eyes-in-the-heat.jpg",
+    "name": "Eyes-In-The-Heat",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://www.jackson-pollock.org/images/paintings/full-fathom-five.jpg",
+    "name": "Full-Fathom-Five",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://www.jackson-pollock.org/images/paintings/galaxy.jpg",
+    "name": "Galaxy",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://www.jackson-pollock.org/images/paintings/greyed-rainbow.jpg",
+    "name": "Greyed-Rainbow",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://www.jackson-pollock.org/images/paintings/alchemy.jpg",
+    "name": "Alchemy",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://www.jackson-pollock.org/images/paintings/shimmering-substance.jpg",
+    "name": "Shimmering-Substance",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://www.jackson-pollock.org/images/paintings/white-light.jpg",
+    "name": "White-Light",
+    "clicked": false
+  }
+]
