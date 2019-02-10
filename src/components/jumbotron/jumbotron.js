@@ -1,14 +1,18 @@
 
 import React from 'react';
 import "./jumbotron.css";
-
+import logo from "../../images/logo_transparent.png"
 
 const Jumbotron = () => (
-<div className="jumbotron jumbotron-fluid">
-  <div className="container titleWrapper">
-    <h1 className="display-4">Jackson Pollock Memory Game!</h1>
-    <p className="lead">Click on the painting to get a point.  The catch: don't click on the same painting twice before getting all the way to 12 or the game resets!</p>
+<section>
+  <div className="container">
+    <div className="row">
+      <div className="col-12 col-md-4 mx-auto">
+        <img className="logoMain" src={logo} alt="Palettely"></img>
+      </div>
+    </div>
   </div>
-</div>
+</section>
+
 );
 export default Jumbotron;

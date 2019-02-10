@@ -1,12 +1,12 @@
 import React from 'react';
-import GameLogicBuild from "./components/gameLogicBuild";
+import MainApp from "./components/mainApp";
 import Jumbotron from "./components/jumbotron";
 
 const App = () => (
-  <div className="container-fluid mainContainer">
+  <main>
     <Jumbotron />
-    <GameLogicBuild /> 
-  </div>
+    <MainApp /> 
+  </main>
 );
 
 export default App;

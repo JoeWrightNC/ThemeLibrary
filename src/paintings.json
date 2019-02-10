@@ -2,74 +2,58 @@
 [
   {
     "id": 1,
-    "image": "https://www.jackson-pollock.org/images/paintings/convergence.jpg",
-    "name": "Convergence",
-    "clicked": false
+    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
+    "classList": "warm",
+    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "name": "Tropical Beach"
   },
   {
     "id": 2,
-    "image": "https://www.jackson-pollock.org/images/paintings/autumn-rhythm.jpg",
-    "name": "Autumn-Rhythm",
-    "clicked": false
+    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
+    "classList": "warm",
+    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "name": "Tropical Beach"
   },
   {
     "id": 3,
-    "image": "https://www.jackson-pollock.org/images/paintings/sea-change.jpg",
-    "name": "Sea-Change",
-    "clicked": false
+    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
+    "classList": "warm",
+    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "name": "Tropical Beach"
   },
   {
     "id": 4,
-    "image": "https://www.jackson-pollock.org/images/paintings/number-18.jpg",
-    "name": "Number-18",
-    "clicked": false
+    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
+    "classList": "warm",
+    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "name": "Tropical Beach"
   },
   {
     "id": 5,
-    "image": "https://www.jackson-pollock.org/images/paintings/in-echo-number-25.jpg",
-    "name": "Number-25",
-    "clicked": false
+    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
+    "classList": "warm",
+    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "name": "Tropical Beach"
   },
   {
     "id": 6,
-    "image": "https://www.jackson-pollock.org/images/paintings/eyes-in-the-heat.jpg",
-    "name": "Eyes-In-The-Heat",
-    "clicked": false
+    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
+    "classList": "warm",
+    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "name": "Tropical Beach"
   },
   {
     "id": 7,
-    "image": "https://www.jackson-pollock.org/images/paintings/full-fathom-five.jpg",
-    "name": "Full-Fathom-Five",
-    "clicked": false
+    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
+    "classList": "warm",
+    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "name": "Tropical Beach"
   },
   {
     "id": 8,
-    "image": "https://www.jackson-pollock.org/images/paintings/galaxy.jpg",
-    "name": "Galaxy",
-    "clicked": false
-  },
-  {
-    "id": 9,
-    "image": "https://www.jackson-pollock.org/images/paintings/greyed-rainbow.jpg",
-    "name": "Greyed-Rainbow",
-    "clicked": false
-  },
-  {
-    "id": 10,
-    "image": "https://www.jackson-pollock.org/images/paintings/alchemy.jpg",
-    "name": "Alchemy",
-    "clicked": false
-  },
-  {
-    "id": 11,
-    "image": "https://www.jackson-pollock.org/images/paintings/shimmering-substance.jpg",
-    "name": "Shimmering-Substance",
-    "clicked": false
-  },
-  {
-    "id": 12,
-    "image": "https://www.jackson-pollock.org/images/paintings/white-light.jpg",
-    "name": "White-Light",
-    "clicked": false
+    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
+    "classList": "warm",
+    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "name": "Tropical Beach"
   }
 ]
