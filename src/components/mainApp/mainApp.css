@@ -13,7 +13,7 @@
 }
 
 /* The navigation menu links */
-.sidenav a {
+.sidenav span {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
@@ -31,7 +31,7 @@
   transition: 0.3s;
 }
 /* When you mouse over the navigation links, change their color */
-.sidenav a:hover {
+.sidenav span:hover {
   color: #f1f1f1;
 }
 
@@ -85,13 +85,14 @@
 .cardHeader {
   background-color:black;
   color:white;
+  border-bottom: 2px solid black;
+
 }
 
 .copyBtn {
   border-radius:8px;
-  position:absolute;
-  top:0px;
-  right:25px;
+  cursor: pointer;
+  font-size:.7em;
 }
 
 .colorBar {
@@ -104,5 +105,8 @@
 
 .colorText {
   height:auto;
-  margin-bottom:0px
+  margin-bottom:0px;
+  background-color:white;
+  opacity:.7;
+  border-radius:4px;
 }

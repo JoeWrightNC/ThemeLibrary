@@ -3,57 +3,36 @@
   {
     "id": 1,
     "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
-    "classList": "warm",
-    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "classList": "warm multicolor",
+    "clipBoard": "$cream: #FBF6F3; \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
     "name": "Tropical Beach"
   },
   {
     "id": 2,
-    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
-    "classList": "warm",
-    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
-    "name": "Tropical Beach"
+    "colorArr": ["#05445E","#189AB4","#75E6DA","#D4F1F4"],
+    "classList": "cool hued",
+    "clipBoard": "$navy: #05445E;\n $grotto: #189AB4;\n $bluegreen: #75E6DA;\n $softblue: #D4F1F4;",
+    "name": "The Indian Ocean"
   },
   {
     "id": 3,
-    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
-    "classList": "warm",
-    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
-    "name": "Tropical Beach"
+    "colorArr": ["#1DC690","#278AB0","#1C4670","#EAEAE0"],
+    "classList": "cool",
+    "clipBoard": "$electricGreen: #1DC690 \n $softblue: #278AB0;\n $blue: #1C4670;\n $pearlwhite: #EAEAE0;",
+    "name": "Northern Aurora"
   },
   {
     "id": 4,
-    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
-    "classList": "warm",
-    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
-    "name": "Tropical Beach"
+    "colorArr": ["#D95980","#63AAC0","#F99B45","#284E60"],
+    "classList": "warm multicolor",
+    "clipBoard": "$pink: #D95980 \n $bluegrey: #63AAC0;\n $orange: #F99B45;\n $darkblue: #284E60;",
+    "name": "West Coast Tech"
   },
   {
     "id": 5,
-    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
-    "classList": "warm",
-    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
-    "name": "Tropical Beach"
-  },
-  {
-    "id": 6,
-    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
-    "classList": "warm",
-    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
-    "name": "Tropical Beach"
-  },
-  {
-    "id": 7,
-    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
-    "classList": "warm",
-    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
-    "name": "Tropical Beach"
-  },
-  {
-    "id": 8,
-    "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
-    "classList": "warm",
-    "clipBoard": "$cream: #FBF6F3 \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
-    "name": "Tropical Beach"
+    "colorArr": ["#0000A3","#0067B3","#40B0DF","#FFD53D"],
+    "classList": "multicolor",
+    "clipBoard": "$darkblue: #0000A3 \n $midblue: #0067B3;\n $lightblue: #40B0DF;\n $yellow: #FFD53D;",
+    "name": "New England Lighthouse"
   }
 ]
