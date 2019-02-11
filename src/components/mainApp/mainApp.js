@@ -48,11 +48,16 @@ class MainApp extends Component {
     return rand
   }
   shufflePalettes = () => {
-    const paintingsArray = this.state.paintings;
-    return this.setState({
-      painting: this.shuffleAlgorithm(paintingsArray),
-      message: "Palettes Shuffled Successfully!",
+    this.setState({
+      message: "Shuffling!"
     })
+    const paintingsArray = this.state.paintings;
+    setTimeout(() => {
+      return this.setState({
+        painting: this.shuffleAlgorithm(paintingsArray),
+        message: "Palettes Shuffled Successfully!",
+      })
+    }, 500);
   }
 
   filterDOM = (filter) => {
@@ -81,7 +86,7 @@ class MainApp extends Component {
         <div id="main">
           <div className="gameMessage text-center">
             <p>{this.state.message}</p>
-            <button type="button" className="btn btn-light py-3" onClick={this.shufflePalettes}>Shuffle Palettes</button>
+            <button type="button" className="btn btn-light py-3" onClick={this.shufflePalettes}>Shuffle Palettes<br/><span style={{fontSize:".8em"}}>(Fisher-Yates Style)</span></button>
           </div>
           <div className="container">
             

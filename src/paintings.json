@@ -4,7 +4,7 @@
     "id": 1,
     "colorArr": ["#FBF6F3","#FEB06A","#36D6E7","#5D6C89"],
     "classList": "warm multicolor",
-    "clipBoard": "$cream: #FBF6F3; \n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
+    "clipBoard": "$cream: #FBF6F3;;\n $tangerine: #FEB06A;\n $turquoise: #36D6E7;\n $bluegrey: #5D6C89;",
     "name": "Tropical Beach"
   },
   {
@@ -18,21 +18,133 @@
     "id": 3,
     "colorArr": ["#1DC690","#278AB0","#1C4670","#EAEAE0"],
     "classList": "cool",
-    "clipBoard": "$electricGreen: #1DC690 \n $softblue: #278AB0;\n $blue: #1C4670;\n $pearlwhite: #EAEAE0;",
+    "clipBoard": "$electricGreen: #1DC690;\n $softblue: #278AB0;\n $blue: #1C4670;\n $pearlwhite: #EAEAE0;",
     "name": "Northern Aurora"
   },
   {
     "id": 4,
     "colorArr": ["#D95980","#63AAC0","#F99B45","#284E60"],
     "classList": "warm multicolor",
-    "clipBoard": "$pink: #D95980 \n $bluegrey: #63AAC0;\n $orange: #F99B45;\n $darkblue: #284E60;",
+    "clipBoard": "$pink: #D95980;\n $bluegrey: #63AAC0;\n $orange: #F99B45;\n $darkblue: #284E60;",
     "name": "West Coast Tech"
   },
   {
     "id": 5,
     "colorArr": ["#0000A3","#0067B3","#40B0DF","#FFD53D"],
     "classList": "multicolor",
-    "clipBoard": "$darkblue: #0000A3 \n $midblue: #0067B3;\n $lightblue: #40B0DF;\n $yellow: #FFD53D;",
+    "clipBoard": "$darkblue: #0000A3;\n $midblue: #0067B3;\n $lightblue: #40B0DF;\n $yellow: #FFD53D;",
     "name": "New England Lighthouse"
+  },
+  {
+    "id": 6,
+    "colorArr": ["#05E0E9","#FF2768","#CFEED1","#4E1A3D"],
+    "classList": "warm multicolor",
+    "clipBoard": "$aqua: #05E0E9;\n $rose: #FF2768;\n $seafoam: #CFEED1;\n $plum: #4E1A3D;",
+    "name": "Spring Jubilee"
+  },
+  {
+    "id": 7,
+    "colorArr": ["#DBDDD0","#A5ABA0","#666666","#4E514E"],
+    "classList": "cool hued",
+    "clipBoard": "$ivory: #DBDDD0;\n $pewter: #A5ABA0;\n $grey: #666666;\n $gunmetal: #4E514E;",
+    "name": "Misty Rock"
+  },
+  {
+    "id": 8,
+    "colorArr": ["#D3F4FB","#9DE3F6","#59D7EE","#53DFD1"],
+    "classList": "cool hued",
+    "clipBoard": "$lightblue: #D3F4FB;\n $midblue: #9DE3F6;\n $darkblue: #59D7EE;\n $bluegreen: #53DFD1;",
+    "name": "Surfs Ups"
+  },
+  {
+    "id": 9,
+    "colorArr": ["#F3E3E2","#74112F","#0C0C1E","#1B2E3C"],
+    "classList": "multicolor warm",
+    "clipBoard": "$lightrose: #F3E3E2;\n $darkrose: #74112F;\n $darkblue: #0C0C1E;\n $darkbluegray: #1B2E3C;",
+    "name": "Wine Country"
+  },
+  {
+    "id": 10,
+    "colorArr": ["#1D3B58","#0A4C86","#94EDFF","#B4F8C8"],
+    "classList": "hued cool",
+    "clipBoard": "$darkblue: #1D3B58;\n $midblue: #0A4C86;\n $lightblue: #94EDFF;\n $mint: #B4F8C8;",
+    "name": "Sorority Days"
+  },
+  {
+    "id": 11,
+    "colorArr": ["#2D1674","#AB729F","#B175FF","#4871E8"],
+    "classList": "multicolor warm",
+    "clipBoard": "$darkblue: #2D1674;\n $purple: #AB729F;\n $violet: #B175FF;\n $royalblue: #4871E8;",
+    "name": "Warm Dusk Sky"
+  },
+  {
+    "id": 12,
+    "colorArr": ["#F64839","#FFCBA4","#8E8F9C","#631D17"],
+    "classList": "multicolor warm",
+    "clipBoard": "$cinnamon: #F64839;\n $peach: #FFCBA4;\n $gray: #8E8F9C;\n $crimson: #631D17;",
+    "name": "Georgia Peach"
+  },
+  {
+    "id": 13,
+    "colorArr": ["#C4D3C0","#2C6150","#89B5C0","#00AD00"],
+    "classList": "multicolor warm",
+    "clipBoard": "$celadon: #C4D3C0;\n $stemgreen: #2C6150;\n $greyblue: #89B5C0;\n $brightgreen: #00AD00;",
+    "name": "Spring Hydrangea"
+  },
+  {
+    "id": 14,
+    "colorArr": ["#F9B8B1","#F84791","#57DBD8","#25388E"],
+    "classList": "multicolor warm",
+    "clipBoard": "$lightrose: #F9B8B1;\n $pink: #F84791;\n $tiffany: #57DBD8;\n $yellow: #25388E;",
+    "name": "Pool Floaty"
+  },
+  {
+    "id": 15,
+    "colorArr": ["#13344C","#0D659D","#88BFCB","#367A91"],
+    "classList": "hued cool",
+    "clipBoard": "$darkblue: #13344C;\n $midblue: #0D659D;\n $lightblue: #88BFCB;\n $teal: #367A91;",
+    "name": "Gentle Waves"
+  },
+  {
+    "id": 16,
+    "colorArr": ["#1B6183","#A1C3CE","#F83212","#7CF3A0"],
+    "classList": "multicolor warm",
+    "clipBoard": "$darkblue: #1B6183;\n $lightblue: #A1C3CE;\n $red: #F83212;\n $mint: #7CF3A0;",
+    "name": "Andy Bernard"
+  },
+  {
+    "id": 17,
+    "colorArr": ["#133F50","#41A5C0","#D85A60","#FCFEFB"],
+    "classList": "multicolor cool",
+    "clipBoard": "$darkblue: #133F50;\n $blue: #41A5C0;\n $red: #D85A60;\n $white: #FCFEFB;",
+    "name": "Summer Popsicle"
+  },
+  {
+    "id": 18,
+    "colorArr": ["#F0F9F9","#F7F9A7","#68CDE7","#0086CB"],
+    "classList": "multicolor cool",
+    "clipBoard": "$darkblue: #F0F9F9;\n $yellow: #F7F9A7;\n $lightblue: #68CDE7;\n $blue: #0086CB;",
+    "name": "Easter Time"
+  },
+  {
+    "id": 19,
+    "colorArr": ["#46A6BC","#C5B85E","#F6C324","#3B546E"],
+    "classList": "multicolor warm",
+    "clipBoard": "$teal: #46A6BC;\n $olive: #C5B85E;\n $yellow: #F6C324;\n $bluegrey: #3B546E;",
+    "name": "Parrot Feathers"
+  },
+  {
+    "id": 20,
+    "colorArr": ["#36B4AF","#57A5B8","#C1DAE1","#23424A"],
+    "classList": "hued cool",
+    "clipBoard": "$greenblue: #36B4AF;\n $marineblue: #57A5B8;\n $babyblue: #C1DAE1;\n $forestgreen: #23424A;",
+    "name": "New England Lighthouse"
+  },
+  {
+    "id": 21,
+    "colorArr": ["#475250","#9589A9","#B5EECB","#F8A2A8"],
+    "classList": "multicolor",
+    "clipBoard": "$coolgrey: #475250;\n $purple: #9589A9;\n $seafoam: #B5EECB;\n $coral: #F8A2A8;",
+    "name": "Spring Bike Ride"
   }
 ]
